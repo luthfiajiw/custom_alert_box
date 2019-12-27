@@ -1,6 +1,6 @@
 # alert_box
 
-A new Flutter package project.
+A Flutter package project.
 
 ## Getting Started
 
